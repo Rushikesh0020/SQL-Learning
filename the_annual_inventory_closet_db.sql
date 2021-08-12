@@ -238,14 +238,11 @@ Query OK, 5 rows affected (0.00 sec)
 mysql> SELECT * FROM shirts;
 Empty set (0.00 sec)
 
-mysql> ^C
-mysql> ^C
-mysql>
 mysql>
 mysql> OHH NOOOHH!!
     ->
     -> Catastrophe Again!!
-    -> ^C
+    -> 
 mysql> DROP TABLE shirts;
 Query OK, 0 rows affected (0.03 sec)
 
